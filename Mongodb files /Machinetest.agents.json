@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67dbbe4e29854d102206e030"
+  },
+  "name": "Kedar Mhetre",
+  "email": "kedar@gmail.com",
+  "mobile": "9876543210",
+  "password": "123",
+  "createdAt": {
+    "$date": "2025-03-20T07:05:50.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T07:05:50.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dbbf7ee3e58bd42bffa0f9"
+  },
+  "name": "om",
+  "email": "om@gmail.com",
+  "mobile": "1234567890",
+  "password": "123",
+  "createdAt": {
+    "$date": "2025-03-20T07:10:54.450Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T07:10:54.450Z"
+  },
+  "__v": 0
+}]
